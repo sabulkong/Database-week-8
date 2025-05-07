@@ -26,7 +26,7 @@ mysql -u [username] -p clinic_db < path/to/db.sql
 MySQL Workbench:
 Use the Data Import/Restore tool and select db.sql.
 
-![ERD](../asset\ER Diagram.drawio.svg)
+![ERD](./asset\ER Diagram.drawio.svg)
 
 
 
