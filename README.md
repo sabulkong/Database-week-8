@@ -1,5 +1,4 @@
 # Clinic Booking System Database
-# Clinic Booking System Database
 
 ## Description  
 This project is a relational database designed for managing a clinic's operations, including:  
