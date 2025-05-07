@@ -11,7 +11,7 @@ This repository contains the SQL schema for a Clinic Booking System designed to 
    USE clinic_booking;
    mysql -u [username] -p clinic_booking < db.sql
    Database Schema Overview
-Tables
+### Tables
 departments
 Stores clinic departments.
 
